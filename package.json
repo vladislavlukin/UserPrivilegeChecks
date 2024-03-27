@@ -1,0 +1,23 @@
+{
+  "name": "userprivilegechecks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladislavlukin/UserPrivilegeChecks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladislavlukin/UserPrivilegeChecks/issues"
+  },
+  "homepage": "https://github.com/vladislavlukin/UserPrivilegeChecks#readme",
+  "dependencies": {
+    "node-addon-api": "^8.0.0"
+  }
+}
